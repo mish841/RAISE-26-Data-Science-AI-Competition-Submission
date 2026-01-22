@@ -29,11 +29,11 @@ Thumbs.db
 .env.local
 
 # Data files (uncomment if you don't want to track data)
-# *.csv
-# *.json
-# *.parquet
-# data/
-# datasets/
+*.csv
+*.json
+*.parquet
+data/
+datasets/
 
 # Model files (uncomment if you don't want to track models)
 # *.pkl
